@@ -7,7 +7,9 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- [JavaScript,HTML, CSS,WordPresshttps<img width="93" height="20" alt="image" src="https://github.com/user-attachments/assets/af4eeccf-58a2-42c7-87d1-21d719b6ad5d" />
+- [<img width="95" height="20" alt="image" src="https://github.com/user-attachments/assets/57f0d6d0-ce4c-4e34-9106-910b0cb86f10" />
+<img width="77" height="20" alt="image" src="https://github.com/user-attachments/assets/380179d5-b5d9-43ba-97c2-c5fa24072e56" />
+<img width="77" height="20" alt="image" src="https://github.com/user-attachments/assets/358c0629-1d33-40cb-8f25-78323f2c4cd6" />
 ]
 - 📝 Microsoft Office - I am a Certified Excel and Word Expert
 
