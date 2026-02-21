@@ -7,14 +7,15 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- [JavaScript,HTML, CSS,WordPress]
-- Microsoft Office - I am a Certified Excel and Word Expert
+- [JavaScript,HTML, CSS,WordPresshttps<img width="93" height="20" alt="image" src="https://github.com/user-attachments/assets/af4eeccf-58a2-42c7-87d1-21d719b6ad5d" />
+]
+- 📝 Microsoft Office - I am a Certified Excel and Word Expert
 
 ## Current Projects
-- [Gap Assessments in OHS] — A Website checklist to aid in realtime audit of organisations compliance rate
+- 🔭 [Gap Assessments in OHS] — A Website checklist to aid in realtime audit of organisations compliance rate
 
 ## How to Reach Me
-- Email: [Mercykimeu207@gmail.com]
+- 📫Email: [Mercykimeu207@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/mercy-kimeu-518684194/]
 - 
 - If you like this readme file, please give me star! ❤️
