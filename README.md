@@ -1,16 +1,20 @@
-## Hi there 👋
+ Hi, I'm [Mercy Kimeu]
 
-<!--
-**merc-hub/Merc-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning[Computer programming].
+- I'm interested in [using a variety of useful computer software and build beautiful blog and becoming a  Programming rookie in Website development and Artificial Intelligence].
+- I'm looking to collaborate on [Entry levels website development projects].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- [JavaScript,HTML, CSS,WordPress]
+- Microsoft Office - I am a Certified Excel and Word Expert
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Gap Assessments in OHS] — A Website checklist to aid in realtime audit of organisations compliance rate
+
+## How to Reach Me
+- Email: [Mercykimeu207@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/mercy-kimeu-518684194/]
+- 
+- If you like this readme file, please give me star! ❤️
